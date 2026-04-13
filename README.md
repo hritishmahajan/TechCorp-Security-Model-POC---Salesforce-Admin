@@ -118,5 +118,5 @@ sf project deploy start --target-org myorg
 ## 👨‍💻 Author
 
 **Hritish Mahajan**  
-B.Tech Student @ Thapar University | Salesforce Developer Intern @ Caelius Consulting  
+B.E.Tech Student @ Thapar University | Technical Associate @ Caelius Consulting  
 [GitHub](https://github.com/hritishmahajan)
